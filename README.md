@@ -30,6 +30,5 @@ cd app
 
 ## After getting personal Information
 
-it's using bash
-
+run `personal-info.sh`
 ![image-20220926140139718](after-pinfo.png)
