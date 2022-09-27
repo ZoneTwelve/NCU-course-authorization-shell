@@ -3,3 +3,6 @@ config.sh
 
 # Unit test
 test-*.sh
+
+# vim temp file
+*.sw*
